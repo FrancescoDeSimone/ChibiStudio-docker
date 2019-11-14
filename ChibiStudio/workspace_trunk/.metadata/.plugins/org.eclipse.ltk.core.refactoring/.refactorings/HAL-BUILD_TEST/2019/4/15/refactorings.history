@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;HAL-BUILD_TEST/os/hal/templates/hal_elf_lld.h&apos; to &apos;hal_efl_lld.h&apos;" description="Rename resource &apos;hal_elf_lld.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="os/hal/templates/hal_elf_lld.h" name="hal_efl_lld.h" stamp="1554637185961" updateReferences="true"/>
+</session>

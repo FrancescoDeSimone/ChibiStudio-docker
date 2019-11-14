@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;RT-STM32L476-DISCOVERY/os/hal/include/hal_eflash.h&apos; to &apos;hal_efl.h&apos;" description="Rename resource &apos;hal_eflash.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="os/hal/include/hal_eflash.h" name="hal_efl.h" stamp="1554629453856" updateReferences="true"/>
+</session>

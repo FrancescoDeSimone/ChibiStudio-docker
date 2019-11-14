@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;STM32-PAL/cfg-stm32l152_discovery&apos; to &apos;cfg-stm32l151_discovery&apos;" description="Rename resource &apos;cfg-stm32l152_discovery&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="cfg-stm32l152_discovery" name="cfg-stm32l151_discovery" stamp="1504340444424" updateReferences="true"/>
+</session>

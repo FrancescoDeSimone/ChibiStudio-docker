@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_stable-18.2.x/test"/>
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_stable-18.2.x/testhal/STM32"/>
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_stable-18.2.x/demos/LPC21xx"/>
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_stable-18.2.x/demos/various"/>
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_stable-18.2.x/demos/STM32"/>
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_stable-18.2.x"/>
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_stable-17.6.x/testhal/STM32"/>
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_stable-17.6.x/demos"/>
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_stable-17.6.x"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="284"/>
+		<item key="DIALOG_Y_ORIGIN" value="190"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+</section>

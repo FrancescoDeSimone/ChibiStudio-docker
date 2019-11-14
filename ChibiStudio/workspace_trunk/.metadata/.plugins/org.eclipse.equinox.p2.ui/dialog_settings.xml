@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.equinox.internal.p2.ui.dialogs.InstallWizard.SelectableIUsPage">
+		<item value="200" key="DetailsSashWeight"/>
+		<item value="360" key="NameColumnWidth"/>
+		<item value="120" key="VersionColumnWidth"/>
+		<item value="364" key="IDColumnWidth"/>
+		<item value="800" key="ListSashWeight"/>
+	</section>
+	<section name="AvailableIUsPage">
+		<item value="1" key="AvailableViewType"/>
+		<item value="800" key="AvailableListSashWeight"/>
+		<item value="false" key="HideInstalledContent"/>
+		<item value="394" key="AvailableVersionColumnWidth"/>
+		<item value="true" key="ShowLatestVersionsOnly"/>
+		<item value="200" key="AvailableDetailsSashWeight"/>
+		<item value="true" key="ResolveInstallWithAllSites"/>
+		<item value="450" key="AvailableNameColumnWidth"/>
+		<item value="true" key="FilterOnEnv"/>
+	</section>
+	<section name="org.eclipse.equinox.internal.p2.ui.dialogs.UpdateWizard.WizardSettings">
+		<item value="873" key="DIALOG_WIDTH"/>
+		<item value="1|Noto Sans|9.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="737" key="DIALOG_HEIGHT"/>
+		<item value="558" key="DIALOG_X_ORIGIN"/>
+		<item value="487" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.equinox.internal.p2.ui.dialogs.UninstallWizard.WizardSettings">
+		<item value="525" key="DIALOG_WIDTH"/>
+		<item value="1|Noto Sans|9.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="546" key="DIALOG_HEIGHT"/>
+		<item value="491" key="DIALOG_X_ORIGIN"/>
+		<item value="174" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.equinox.internal.p2.ui.dialogs.UpdateWizard.ResolutionResultsPage">
+		<item value="200" key="DetailsSashWeight"/>
+		<item value="400" key="NameColumnWidth"/>
+		<item value="200" key="VersionColumnWidth"/>
+		<item value="249" key="IDColumnWidth"/>
+		<item value="800" key="ListSashWeight"/>
+	</section>
+	<section name="org.eclipse.equinox.internal.p2.ui.dialogs.InstallWizard.ResolutionResultsPage">
+		<item value="200" key="DetailsSashWeight"/>
+		<item value="400" key="NameColumnWidth"/>
+		<item value="200" key="VersionColumnWidth"/>
+		<item value="244" key="IDColumnWidth"/>
+		<item value="800" key="ListSashWeight"/>
+	</section>
+	<section name="org.eclipse.equinox.internal.p2.ui.dialogs.InstallWizard.WizardSettings">
+		<item value="868" key="DIALOG_WIDTH"/>
+		<item value="1|Noto Sans|9.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="763" key="DIALOG_HEIGHT"/>
+		<item value="687" key="DIALOG_X_ORIGIN"/>
+		<item value="60" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.equinox.internal.p2.ui.dialogs.UpdateWizard.SelectableIUsPage">
+		<item value="200" key="DetailsSashWeight"/>
+		<item value="360" key="NameColumnWidth"/>
+		<item value="120" key="VersionColumnWidth"/>
+		<item value="369" key="IDColumnWidth"/>
+		<item value="800" key="ListSashWeight"/>
+	</section>
+</section>

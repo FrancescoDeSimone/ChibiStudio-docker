@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;RT-STM32L4R5ZI-NUCLEO144/cfg/mcuconf.h&apos;" deleteContents="false" description="Delete resource &apos;RT-STM32L4R5ZI-NUCLEO144/cfg/mcuconf.h&apos;" element1="/RT-STM32L4R5ZI-NUCLEO144/cfg/mcuconf.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1537003334659"/>
+</session>

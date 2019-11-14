@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;RT-STM32F746G-DISCOVERY/os/lib/include/chpipe.h&apos; to &apos;chpipes.h&apos;" description="Rename resource &apos;chpipe.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="os/lib/include/chpipe.h" name="chpipes.h" stamp="1521309749179" updateReferences="true"/>
+</session>

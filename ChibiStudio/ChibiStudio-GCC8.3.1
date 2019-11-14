@@ -1,0 +1,25 @@
+#!/bin/bash
+
+# ChibiStudio path,
+export CHIBISTUDIO="$HOME/Projects/ChibiStudio"
+
+# ARM compiler path.
+PATH="$CHIBISTUDIO/tools/GNU Tools ARM Embedded/8.3.1 2019q3/bin:$PATH"
+
+# Power compiler path.
+PATH="$CHIBISTUDIO/tools/powerpc-eabivle/bin:$PATH"
+
+# OpenOCD executable.
+export OPENOCD="$CHIBISTUDIO/tools/openocd/bin/openocd"
+
+# FMPP executable.
+export FMPP="$CHIBISTUDIO/tools/fmpp/bin/fmpp"
+
+# Eclipse tooltips workaround.
+export SWT_GTK3=0
+
+# Starting Eclipse.
+cd $CHIBISTUDIO/eclipse_2019-06
+./eclipse
+
+exit

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;RT-ARMCM4-MAKELIB/dummy/chparams.h&apos; to &apos;cmparams.h&apos;" description="Rename resource &apos;chparams.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="dummy/chparams.h" name="cmparams.h" stamp="1559458353787" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;RT-ARMCM4-MAKELIB/dummy/_license.h&apos; to &apos;_header.h&apos;" description="Rename resource &apos;_license.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="dummy/_license.h" name="_header.h" stamp="1559458706583" updateReferences="true"/>
+</session>

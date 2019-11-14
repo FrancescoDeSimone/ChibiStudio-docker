@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="timeout" key="selection"/>
+		<item value="true" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="timeout"/>
+			<item value="timeout_cb"/>
+			<item value="rtc_decode("/>
+			<item value="SPI"/>
+			<item value="STM32_USART3_8_NUMBER"/>
+			<item value="  FALSE"/>
+			<item value="  STM32_"/>
+			<item value="(STM32_PPRE1 == STM32_PPRE1_DIV1) || defined(__DOXYGEN__)"/>
+		</list>
+		<list key="replacehistory">
+			<item value="  ${doc.!&quot;FALSE"/>
+			<item value="  ${doc.!&quot;STM32_"/>
+			<item value="  STM32_"/>
+			<item value="if ("/>
+			<item value="    "/>
+			<item value="CHTODO:"/>
+			<item value="@note    You can add your board-specific code here."/>
+			<item value="@note   You can add your board-specific code here."/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="459" key="DIALOG_WIDTH"/>
+		<item value="1|Noto Sans|9.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="445" key="DIALOG_HEIGHT"/>
+		<item value="1414" key="DIALOG_X_ORIGIN"/>
+		<item value="-14" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

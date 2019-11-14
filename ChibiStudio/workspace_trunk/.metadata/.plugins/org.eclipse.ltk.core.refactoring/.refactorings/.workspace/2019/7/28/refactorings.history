@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;ChibiOS (whole tree)/chibios-wolfssl-update-4.0.0.diff&apos;" deleteContents="false" description="Delete resource &apos;ChibiOS (whole tree)/chibios-wolfssl-update-4.0.0.diff&apos;" element1="/ChibiOS (whole tree)/chibios-wolfssl-update-4.0.0.diff" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1562507162973"/>
+</session>

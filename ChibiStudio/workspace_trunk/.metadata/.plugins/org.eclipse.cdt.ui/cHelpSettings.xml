@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cHelpSettings>
+<project name="STM32-PAL">
+<provider id="org.eclipse.cdt.ui.provider1"/>
+</project>
+<project name="STM32-SPI">
+<provider id="org.eclipse.cdt.ui.provider1"/>
+</project>
+</cHelpSettings>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;STM32-USB_CDC/source/tmp&apos;" deleteContents="false" description="Delete resource &apos;STM32-USB_CDC/source/tmp&apos;" element1="/STM32-USB_CDC/source/tmp" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1512231209898"/>
+</session>

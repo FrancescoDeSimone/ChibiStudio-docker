@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="CleanDialogSettings">
+		<item key="DIALOG_WIDTH" value="496"/>
+		<item key="TOGGLE_SELECTED" value="false"/>
+		<item key="DIALOG_HEIGHT" value="393"/>
+		<item key="DIALOG_X_ORIGIN" value="647"/>
+		<item key="DIALOG_Y_ORIGIN" value="327"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_trunk/demos/STM32"/>
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_trunk/demos/various"/>
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_trunk/testhal/STM32/multi/EFL-MFS"/>
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_trunk/testhal/STM32/multi"/>
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_trunk/testhal/STM32/multi/RTC"/>
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_trunk/testhal/STM32"/>
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_trunk/testex/STM32/STM32F3xx/SPI-N25Q128"/>
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_trunk/demos/STM32/RT-STM32H743I-NUCLEO144"/>
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_trunk/demos/STM32/RT-STM32-LWIP-FATFS-USB-HTTPS"/>
+			<item value="/home/giovanni/Projects/muffin_firmware"/>
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_trunk/testhal/STM32/multi/QSPI-MFS"/>
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_trunk/testex/STM32/STM32L4xx/QSPI-N25Q128"/>
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_trunk/demos/ATSAMA5D2"/>
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_trunk/testhal/STM32/STM32F1xx/USB_CDC_F107"/>
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_trunk/demos/SPC5"/>
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_trunk/test/nil/testbuild"/>
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_trunk/demos/various/RT-Posix-Simulator"/>
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_trunk"/>
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_trunk/test"/>
+			<item value="/home/giovanni/Projects/ChibiStudio/chibios_trunk/demos/LPC21xx"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.internal.ide.dialogs.ProjectContentsLocationArea">
+		<item key="OUTSIDE_LOCATION" value="/home/giovanni/Projects/muffin_firmware-master"/>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.cdt.ui.wizards.NewMakeFromExisting"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.cdt.ui.newCWizards"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="399"/>
+		<item key="DIALOG_Y_ORIGIN" value="235"/>
+	</section>
+	<section name="org.eclipse.ui.internal.views.markers.FiltersConfigurationDialog">
+	</section>
+</section>

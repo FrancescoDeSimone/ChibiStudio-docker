@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;STM32-TRNG/make/stm32l4r5_discovery.make&apos; to &apos;stm32l4r5zi_nucleo144.make&apos;" description="Rename resource &apos;stm32l4r5_discovery.make&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="make/stm32l4r5_discovery.make" name="stm32l4r5zi_nucleo144.make" stamp="1538903123513" updateReferences="true"/>
+</session>

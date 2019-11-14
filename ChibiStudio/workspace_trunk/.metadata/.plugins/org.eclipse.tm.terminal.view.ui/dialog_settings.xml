@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="LaunchTerminalSettingsDialog">
+		<item value="Serial Terminal" key="terminalLabel"/>
+		<section name="SettingsPanelControl">
+			<section name="Serial Terminal">
+				<item value="5" key="SerialLinePanel.selectedTTYTimeout.Linux"/>
+				<item value="38400" key="SerialLinePanel.selectedTTYSpeedRate.Linux"/>
+				<item value="1" key="SerialLinePanel.selectedTTYStopbits.Linux"/>
+				<item value="8" key="SerialLinePanel.selectedTTYDatabits.Linux"/>
+				<item value="None" key="SerialLinePanel.selectedTTYParity.Linux"/>
+				<item value="/dev/ttyUSB0" key="SerialLinePanel.selectedTTYDevice.Linux"/>
+				<item value="None" key="SerialLinePanel.selectedTTYFlowControl.Linux"/>
+			</section>
+			<section name="Local Terminal">
+				<item value="UTF-8" key="encoding"/>
+			</section>
+		</section>
+	</section>
+</section>

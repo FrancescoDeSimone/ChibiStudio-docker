@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;RT-STM32-LWIP-FATFS-USB/make/Makefile&apos; to &apos;stm32f769_discovery.make&apos;" description="Rename resource &apos;Makefile&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="make/Makefile" name="stm32f769_discovery.make" stamp="1540404655544" updateReferences="true"/>
+</session>

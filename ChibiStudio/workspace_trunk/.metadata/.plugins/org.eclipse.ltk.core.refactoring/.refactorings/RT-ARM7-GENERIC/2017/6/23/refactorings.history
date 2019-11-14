@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;RT-ARM7-GENERIC/os/common/startup/ARM/compilers/GCC/ld/SAMA5D2.ld&apos; to &apos;SAMA5D2-T.ld&apos;" description="Rename resource &apos;SAMA5D2.ld&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="os/common/startup/ARM/compilers/GCC/ld/SAMA5D2.ld" name="SAMA5D2-T.ld" stamp="1497101804975" updateReferences="true"/>
+</session>

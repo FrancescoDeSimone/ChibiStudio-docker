@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.chibios.eclipse.tools.feature"
+      label="ChibiOS Eclipse Tools"
+      version="3.0.0.201907130759"
+      provider-name="www.chibios.org"
+      plugin="org.chibios.chibistudio.branding"
+      exclusive="true">
+
+   <description>
+      ChibiOS extension plugins collection for Eclipse.
+   </description>
+
+   <copyright url="http://www.chibios.org/dokuwiki/doku.php?id=chibios:copyright">
+      ChibiOS/RT - Copyright (C) 2007...2013 Giovanni Di Sirio.
+   </copyright>
+
+   <license url="http://www.chibios.org/dokuwiki/doku.php?id=chibios:license">
+      ChibiOS/RT is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 3 of the License, or
+(at your option) any later version.
+
+ChibiOS/RT is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see &lt;http://www.gnu.org/licenses/&gt;.
+   </license>
+
+   <url>
+      <update label="ChibiStudio Update Site" url="http://www.chibios.org/eclipse/chibistudio"/>
+      <discovery label="ChibiOS/RT free embedded RTOS homepage" url="http://www.chibios.org"/>
+   </url>
+
+   <requires>
+      <import plugin="org.eclipse.core.resources" version="3.7.101" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.core.runtime" version="3.7.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.ui" version="3.7.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.ui.console" version="3.5.100" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.ui.ide" version="3.7.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.cdt.core" version="5.3.2" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.cdt.managedbuilder.core" version="8.0.2" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.cdt.dsf.ui"/>
+      <import plugin="org.eclipse.cdt.dsf.gdb"/>
+      <import plugin="org.eclipse.cdt.dsf"/>
+      <import plugin="org.eclipse.debug.ui"/>
+      <import plugin="org.eclipse.cdt.debug.core"/>
+      <import plugin="org.eclipse.swt"/>
+      <import plugin="org.eclipse.cdt.dsf.gdb.ui"/>
+   </requires>
+
+   <plugin
+         id="org.chibios.tools.eclipse.config"
+         download-size="0"
+         install-size="0"
+         version="2.0.0.201907130759"
+         unpack="false"/>
+
+   <plugin
+         id="org.chibios.chibistudio.branding"
+         download-size="0"
+         install-size="0"
+         version="1.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.chibios.tools.eclipse.debug.chibiosrt6"
+         download-size="0"
+         install-size="0"
+         version="2.0.0.201907130759"
+         unpack="false"/>
+
+</feature>

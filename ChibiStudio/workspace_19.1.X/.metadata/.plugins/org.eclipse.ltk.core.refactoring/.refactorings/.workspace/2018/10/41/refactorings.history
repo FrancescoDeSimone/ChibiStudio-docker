@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;RT-STM32L073RZ-NUCLEO64/os/hal/include/hal_persistent.h&apos;" deleteContents="false" description="Delete resource &apos;RT-STM32L073RZ-NUCLEO64/os/hal/include/hal_persistent.h&apos;" element1="/RT-STM32L073RZ-NUCLEO64/os/hal/include/hal_persistent.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1539460145703"/>
+</session>

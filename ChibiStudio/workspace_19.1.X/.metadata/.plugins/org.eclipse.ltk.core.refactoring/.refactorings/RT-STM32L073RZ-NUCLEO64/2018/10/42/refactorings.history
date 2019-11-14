@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;RT-STM32L073RZ-NUCLEO64/os/hal/include/hal_flash.h&apos; to &apos;hal_persistent.h&apos;" description="Rename resource &apos;hal_flash.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="os/hal/include/hal_flash.h" name="hal_persistent.h" stamp="1539491337713" updateReferences="true"/>
+</session>

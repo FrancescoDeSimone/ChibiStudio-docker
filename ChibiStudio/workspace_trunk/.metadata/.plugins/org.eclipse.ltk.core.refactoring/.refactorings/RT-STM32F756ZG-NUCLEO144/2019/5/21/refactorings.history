@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;RT-STM32F756ZG-NUCLEO144/os/se/rt.mk&apos; to &apos;se.mk&apos;" description="Rename resource &apos;rt.mk&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="os/se/rt.mk" name="se.mk" stamp="1558259478788" updateReferences="true"/>
+</session>

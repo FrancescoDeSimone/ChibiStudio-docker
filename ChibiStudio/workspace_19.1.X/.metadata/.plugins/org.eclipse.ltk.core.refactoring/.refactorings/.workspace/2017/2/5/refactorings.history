@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;RT-Posix-Simulator/mcuconf.h&apos;" deleteContents="false" description="Delete resource &apos;RT-Posix-Simulator/mcuconf.h&apos;" element1="/RT-Posix-Simulator/mcuconf.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1486034672566"/>
+</session>

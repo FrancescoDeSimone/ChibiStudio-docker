@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 5 resources" deleteContents="false" description="Delete 5 resources" element1="/ChibiOS (whole tree)/0001-Cleanup-of-os-various-various.dox.patch" element2="/ChibiOS (whole tree)/0002-Cleanup-of-lwip_bindings-arch-cc.h.patch" element3="/ChibiOS (whole tree)/0003-Cleanup-of-lwip_bindings-arch-sys_arch.c.patch" element4="/ChibiOS (whole tree)/0004-Cleanup-of-lwip_bindings-lwipthread.h.patch" element5="/ChibiOS (whole tree)/0005-Cleanup-of-lwip_bindings-lwipthread.c.patch" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="5" stamp="1506832118820"/>
+</session>
