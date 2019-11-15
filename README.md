@@ -18,7 +18,7 @@ To run the image:
 
 Quick notes:
 - You can close the terminal once the Eclipse logo appear
-- You need an X11 socket, if you run MacOS see below
+- You need an X11 socket, if you run MacOS/you care about security see below
 - The following files will be shared among the host and the guest: `/tmp/.X11-unix`, `$HOME/.Xauthority`
 - Three docker volumes will be created to permanently store Eclipse settings (`workspacecfg`), ChibiOS demo projects (`chibiostrunk`) and Custom projects (`workspacetrunk`)
 
@@ -32,10 +32,17 @@ Quick notes:
 7) Select the debug configuration that you will use, go inside the debugger tab and select "OpenOCD (via socket)" as JTAG device
 8) Now you're ready to build the project 
 
-## How it works
+## Why a docker machine?
 
-- The user in the container will be called "giovanni", making all the paths.
-- Sharing X11 between the machine and the docker container will also share all the recived X11 event of the host machine with the guest (including all keys typed in all other apps outside docker). This is not a 100% SAFE solution but its a good hack to make chibios work without too many hassle. 
+- The user in the container will be called "giovanni", this way all the hardcoded paths (`/home/giovanni/`) will work properly.
+- The docker image is 3.5gb unpacked while the official virtual machine is more than 20gb
+- The performances are way better than a VM
+- Sharing X11 between the machine and the docker container will also share all the recived X11 event of the host machine with the guest (including all keys typed in all other apps outside docker, keybindings, clipboards, mouse clicks etc.). This is not a SAFE solution but its a good hack to make chibios work without too many hassle.
+
+## MacOS workaround
+Its not possible to use Quarz as our X11 server as it is, you will need another software such as XQuartz. This is a simple guide from [cschiewek](https://gist.github.com/cschiewek/246a244ba23da8b9f0e7b11a68bf3285) on how to run it.
+
+_THIS SOLUTION IS CURRENTLY UNTESTED_
 
 ## Future works
 
