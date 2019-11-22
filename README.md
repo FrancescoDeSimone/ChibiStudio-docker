@@ -40,6 +40,7 @@ Quick notes:
 - Sharing X11 between the machine and the docker container will also share all the recived X11 event of the host machine with the guest (including all keys typed in all other apps outside docker, keybindings, clipboards, mouse clicks etc.). This is not a SAFE solution but its a good hack to make chibios work without too many hassle.
 
 ## MacOS workaround
+Tested with MacOS Catalina
 For MacOS you need to install XQuartz which in work around for X11 socket. below are the steps to install it on MacOS.
 Pre-Requisites
  - Homebrew
@@ -75,4 +76,4 @@ notice that the display variable is change from the one in Linux. The Eclipse wi
 ## Future works
 
 - Slim down the container size
-- Test it with MacOS systems
+
