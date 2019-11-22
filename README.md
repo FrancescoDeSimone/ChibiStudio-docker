@@ -45,7 +45,7 @@ For MacOS you need to install XQuartz which in work around for X11 socket. below
 Pre-Requisites
  - Homebrew
 
-# Steps
+### Steps
  - brew install socat
  - brew cask reinstall/install xquartz
 
