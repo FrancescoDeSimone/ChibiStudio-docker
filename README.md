@@ -53,23 +53,23 @@ Restart your  system for the xquartz to integrate its variables
 
 it will run on port 6000 so verify first to check if port isn’t busy
 
- - lsof -i TCP:6000
+ - `lsof -i TCP:6000`
 
 Verify that the communication is possible with the port by typing this command
 
- - socat TCP-LISTEN:6000,reuseaddr,fork UNIX-CLIENT:\"$DISPLAY\"
+ - `socat TCP-LISTEN:6000,reuseaddr,fork UNIX-CLIENT:\"$DISPLAY\"`
 
 Keep this terminal open and run this command in seprate terminal again
 
- - lsof -i TCP:6000
+ - `lsof -i TCP:6000`
 
 If communication is successfull, you will entry of the connection the listening terminal. Now you can pull the image from the repo.
  
- - docker pull fradesi/chibistudio
+ - `docker pull fradesi/chibistudio`
 
 and at last run 
 
-docker run --privileged -v /dev:/dev -e DISPLAY=docker.for.mac.host.internal:0 -v /tmp/.X11-unix:/tmp/.X11-unix -v $HOME/.Xauthority:/home/giovanni/.Xauthority --mount source=workspacecfg,target=/home/giovanni/Projects/ChibiStudio/eclipse_2019-06/configuration/ --mount type=volume,source=workspacetrunk,target=/home/giovanni/Projects/ChibiStudio/workspace_trunk/ --mount type=volume,source=chibiostrunk,target=/home/giovanni/Projects/ChibiStudio/chibios_trunk/ --net=host fradesi/chibistudio
+`docker run --privileged -v /dev:/dev -e DISPLAY=docker.for.mac.host.internal:0 -v /tmp/.X11-unix:/tmp/.X11-unix -v $HOME/.Xauthority:/home/giovanni/.Xauthority --mount source=workspacecfg,target=/home/giovanni/Projects/ChibiStudio/eclipse_2019-06/configuration/ --mount type=volume,source=workspacetrunk,target=/home/giovanni/Projects/ChibiStudio/workspace_trunk/ --mount type=volume,source=chibiostrunk,target=/home/giovanni/Projects/ChibiStudio/chibios_trunk/ --net=host fradesi/chibistudio`
 
 notice that the display variable is change from the one in Linux. The Eclipse will open automatically, follow the rest of the procedure of switching workspaces from about guideline
 
