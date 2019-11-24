@@ -69,7 +69,7 @@ If communication is successfull, you will entry of the connection the listening 
 
 and at last run 
 
-`docker run --privileged -v /dev:/dev -e DISPLAY=docker.for.mac.host.internal:0 -v /tmp/.X11-unix:/tmp/.X11-unix -v $HOME/.Xauthority:/home/giovanni/.Xauthority --mount source=workspacecfg,target=/home/giovanni/Projects/ChibiStudio/eclipse_2019-06/configuration/ --mount type=volume,source=workspacetrunk,target=/home/giovanni/Projects/ChibiStudio/workspace_trunk/ --mount type=volume,source=chibiostrunk,target=/home/giovanni/Projects/ChibiStudio/chibios_trunk/ --net=host fradesi/chibistudio`
+`docker run --privileged -e DISPLAY=docker.for.mac.host.internal:0 -v /tmp/.X11-unix:/tmp/.X11-unix -v $HOME/.Xauthority:/home/giovanni/.Xauthority --mount source=workspacecfg,target=/home/giovanni/Projects/ChibiStudio/eclipse_2019-06/configuration/ --mount type=volume,source=workspacetrunk,target=/home/giovanni/Projects/ChibiStudio/workspace_trunk/ --mount type=volume,source=chibiostrunk,target=/home/giovanni/Projects/ChibiStudio/chibios_trunk/ --net=host fradesi/chibistudio`
 
 notice that the display variable is change from the one in Linux. The Eclipse will open automatically, follow the rest of the procedure of switching workspaces from about guideline
 
